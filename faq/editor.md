@@ -1,38 +1,51 @@
 ---
-description: Q&A FAQ
 icon: pen-to-square
+description: General Questions and Answers for $SLAYER and ThreatSlayerAI
 ---
 
 # General Questions
 
-**Q: What is ALLST8?**
+#### What is $SLAYER?
 
-A: We're an AI crypto insurance company that insures your web3 assets against theft and loss caused by attacks, scams, and exploits.&#x20;
+$SLAYER is the token for AI-powered security features in the Interlock ecosystem. It grants access to advanced threat detection and prevention capabilities within the ThreatSlayer platform.
 
-**Q: What does ALLST8 do?**
+#### What is ThreatSlayerAI?
 
-**A:**&#x20;
+ThreatSlayerAI is a Web3 cybersecurity browser extension developed by Interlock. It uses AI to provide protection against online threats and offers a rewards system for users.
 
-* Protects your crypto against hacks, scams, and theft
-* Uses AI to assess risk and set fair rates
-* Processes claims and payouts automatically through smart contracts
-* Involves the community in governance and claim validation through its DAO
+#### How does $SLAYER work with ThreatSlayerAI?
 
-**Q: What are the benefits of holding ALLST8 tokens?**
+$SLAYER token holders gain early or exclusive access to new AI security features and products developed by the ThreatSlayerAI platform. The token also allows users to participate in governance and earn rewards through staking.
 
-**A:**
+#### What are the benefits of holding $SLAYER tokens?
 
-* Participate in DAO governance and voting
-* Stake tokens to earn rewards
-* Get discounts on insurance premiums
-* Contribute to claim validation process
+Benefits include:
 
-**Q: How does ALLST8 ensure the security of user funds?**
+* Early access to new AI security features
+* Voting rights on proposed changes to AI security systems
+* Staking rewards from revenue earned from AI services
+* Access to the elite ThreatHunters community (when combined with $ILOCK tokens)
 
-**A:**
+#### How can I earn $SLAYER tokens?
 
-* Smart contracts are audited by third-party security firms
-* Multi-signature wallets secure treasury funds
-* Regular security assessments and updates
-* Decentralized structure minimizes single points of failure
+Users can earn $SLAYER tokens by participating in the ThreatSlayer ecosystem, such as identifying threats, contributing to the security of the network, and staking their tokens.
 
+#### What is the relationship between $SLAYER and $ILOCK?
+
+$SLAYER and $ILOCK have a symbiotic relationship within the Interlock ecosystem. While $ILOCK is the main utility token for Interlock's security platform, $SLAYER focuses on AI-powered security features. Holding both tokens maximizes rewards and provides access to exclusive features.
+
+#### How does ThreatSlayerAI use AI for cybersecurity?
+
+ThreatSlayerAI leverages artificial intelligence to detect and prevent online threats. It likely uses machine learning models to analyze patterns and identify potential security risks in real-time.
+
+#### Is ThreatSlayerAI available for all browsers?
+
+The exact browser compatibility is not specified in the provided information. It's best to check the official ThreatSlayer website or documentation for the most up-to-date information on supported browsers.
+
+#### How does the security staking feature work in ThreatSlayerAI?
+
+Security staking allows users to stake their tokens (likely $SLAYER or $ILOCK) to participate in the network's security. Stakers can earn rewards for their contributions to the ecosystem's overall security.
+
+#### What is the ThreatHunters community?
+
+The ThreatHunters community is an elite group within the ThreatSlayerAI ecosystem. Access to this community requires holding both $SLAYER and $ILOCK tokens and offers higher rewards for members.
