@@ -16,8 +16,9 @@
 
 ## Social and Links
 
-* [Interlock Website](https://interlock.network)
-* [Interlock/ThreastSlayer Telegram](https://t.me/interlockchat)
+* [$SLAYER Chart](https://dexscreener.com/base/0x2a1e8ead3fb328222b4330155014f5db204db9b2)
 * [ThreatSlayerAI X](https://x.com/threatslayerai)
+* [Interlock/ThreastSlayer Telegram](https://t.me/interlockchat)
+* [Interlock X](https://x.com/interlockweb3)
+* [Interlock Website](https://interlock.network)
 * [Interlock Discord](https://discord.gg/r5u42Edvxu)
-* [Interlock Twitter](https://x.com/interlockweb3)
