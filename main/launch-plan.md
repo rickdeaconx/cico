@@ -1,6 +1,7 @@
 ---
-noIndex: true
 icon: rocket-launch
+hidden: true
+noIndex: true
 ---
 
 # Launch Plan
