@@ -11,9 +11,10 @@ description: BUIDL secure.
 
 #### ThreatSlayer AI Deployment
 
-* [x] Launch AI-powered security scanning for X and Telegram URLs
+* [ ] Launch AI-powered security scanning for X and Telegram URLs
 * [ ] Expand AI security scanning to Discord URLs
-* [x] Implement security staking automation
+* [ ] Implement security staking automation
+* [x] X personality and tweet automation
 
 #### Security Protocol
 
@@ -23,14 +24,16 @@ description: BUIDL secure.
 #### $SLAYER Token Launch
 
 * [x] Launch $SLAYER token on Virtuals.io platform
-* [x] Implement a burn structure
+* [ ] Implement a burn structure
 * [x] Activate staking on Unvest platform - [https://app.unvest.io/projects/8453/0x6379219890843c0b9e3160044de072ced66baab2/staking-pools/0x39842d9f4d072415f4b38758f8b11418ee65027e](https://app.unvest.io/projects/8453/0x6379219890843c0b9e3160044de072ced66baab2/staking-pools/0x39842d9f4d072415f4b38758f8b11418ee65027e)
 
 #### Community Building
 
 * [x] Create and launch ThreatSlayerAI X account
-* [ ] Grow community engagement across all platforms
+* [x] Grow community engagement across all platforms
 * [ ] Add all relevant information to https://interlock.network
+* [x] Partner with Lester on Virtuals
+* [x] Partner with CertAIk on Virtuals
 
 ### Phase 2: Enhancement and Community Engagement (3-6 Months)
 
