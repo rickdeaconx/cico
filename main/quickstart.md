@@ -1,37 +1,36 @@
 ---
+description: Take a deep dive into how ALLST8 works.
 icon: book-open
-description: If you don't know, now you know.
 ---
 
 # How it Works
 
-## Threat Detection and URL Analysis
+**ALLST8 insurance protects users against cryptocurrency losses they take as a result of hacks, scams, or other malicious occurrences. Claims are paid out by a token pool powered by token holding members and voted on by the community. ALLST8 AI agent is used to simplify, verify, and expedite everything done.**
 
-**‍**\
-ThreatSlayerAI will evaluate links from the ThreatSlayer security browser extension while enhancing the speed and effectiveness of our unique [Security Staking](https://x.com/interlockweb3/status/1871154527698604354) feature. It will operate autonomously, eliminating the need for users to evaluate links one-by-one. This will allow for rewards for URL reporting to be delivered quickly and accurately
+Here's briefly how **ALLST8 insurance** works:
 
-## New Scam URL Aggregation
+* What's Covered: Protection against hacks, scams, and theft of your crypto.
+* How It Works: Smart contracts automatically handle policies and claims.
+* Pricing: AI sets fair rates based on your risk and market conditions.
+* Payouts: If you're hacked, you get paid from a shared pool of funds.
+* Repayment: The more you pay in premiums, the higher percentage of your loss is covered.
+* Community Role: Token holders help assess risks and validate claims.
 
-\
-The AI agent will actively collect new scam URLs shared across social media platforms like X and Discord, expanding its threat database. Since ThreatSlayer currently only works on desktop browsers, this allows us to protect users from scams shared in these popular communication channels. The AI will also add new known good sites in Web3 more quickly, reducing false positives.
+**ALLST8's agentic AI** is here to automate an un-complicate the process of ensuring claims are handled correctly and fairly.
 
-## Malicious Wallet and Smart Contract Addresses
+**ALLST8 AI** is instructed for:
 
-\
-ThreatSlayerAI will scan websites found by users of ThreatSlayer to identify wallets and smart contracts, assessing their potential malicious nature, adding an extra layer of security for users.\
+* Smart Risk Assessment: AI analyzes data to set fair prices quickly.
+* Automatic Claims Handling: AI checks claims for fraud and processes payouts.
+* Real-Time Policy Updates: AI watches for changes and adjusts coverage as needed.
+* 24/7 AI Support: Chatbots answer questions and help users anytime.
 
+**ALLST8DAO** takes the burden off of a single person and ensures fair, honest claim recovery.
 
-## Patterns and Fuzzing
+**ALLST8DAO** is instructed for:
 
-\
-The system will identify patterns in website URLs and employ fuzzing techniques to discover other potentially malicious sites, proactively expanding its threat detection capabilities. This attack is commonly known as a “homograph attack”
+* Voting: Token holders vote on big decisions and rule changes.
+* Claims: DAO members review and approve insurance claims.
+* Money Management: The DAO decides how to use and invest the company's funds.
 
-## User Queries
-
-\
-While primarily operating in the background, ThreatSlayerAI will be able to be queried by users seeking specific data or insights into the threats we’ve discovered.
-
-## Data We Process and Sell
-
-\
-ThreatSlayerAI will process submitted data, removing duplicates and false positives to maintain a clean, accurate database of threats. This structure will allow ThreatSlayerAI to function as a powerful, largely autonomous tool in the cybersecurity landscape, combining advanced AI capabilities with user-submitted data to create a robust and efficient threat detection and reporting ecosystem.
+**HODLers of ALLST8 earn rewards on staking for the claim pool, can insure their assets, and vote on governance. More on the next page...**

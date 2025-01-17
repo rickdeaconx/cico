@@ -1,24 +1,23 @@
 # Table of contents
 
-* [Welcome to ThreatSlayerAI](README.md)
+* [Welcome to ALLST8](README.md)
 
 ## main
 
 * [How it Works](main/quickstart.md)
-* [$SLAYER Token](main/publish-your-docs.md)
-* [ThreatSlayerAI Agentic AI](main/how-the-insurance-works.md)
+* [ALLST8 Token](main/publish-your-docs.md)
+* [How the Insurance Works](main/how-the-insurance-works.md)
 * [Roadmap](main/roadmap.md)
+* [Launch Plan](main/launch-plan.md)
 
 ## FAQ
 
 * [General Questions](faq/editor.md)
-* [Staking, Utility & Rewards](faq/markdown.md)
+* [Claims and Payouts](faq/markdown.md)
+* [DAO & Community](faq/images-and-media.md)
+* [AI Agent](faq/interactive-blocks.md)
+* [🤑 Staking & Rewards](faq/staking-and-rewards.md)
 
-## Social and Links
+## Claims & Payouts
 
-* [$SLAYER Chart](https://dexscreener.com/base/0x2a1e8ead3fb328222b4330155014f5db204db9b2)
-* [ThreatSlayerAI X](https://x.com/threatslayerai)
-* [Interlock/ThreastSlayer Telegram](https://t.me/interlockchat)
-* [Interlock X](https://x.com/interlockweb3)
-* [Interlock Website](https://interlock.network)
-* [Interlock Discord](https://discord.gg/r5u42Edvxu)
+* [Claims & Payouts](claims-and-payouts/claims-and-payouts.md)

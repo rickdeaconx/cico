@@ -1,30 +1,36 @@
 ---
+description: >-
+  Get to know what happens when you need coverage. Like a good neighbor, ALLST8
+  is there.
 icon: face-laugh-beam
-description: Why do you need AI? I'll tell you why.
 ---
 
-# ThreatSlayerAI Agentic AI
+# How the Insurance Works
 
-ThreatSlayerAI uses artificial intelligence to protect users in the Web3 space. It's built into the ThreatSlayer browser extension to spot and stop online threats more effectively.&#x20;
+## Risk Assessment
 
-## Why AI?
+**ALLST8's AI analyzes on-chain data, user behavior, and market trends to determine individual risk scores and premium rates.**
 
-## Agentic AI Helps ThreatSlayer and Interlock:
+**Here's what happens:**
 
-* Automatically detect threats
-* Work faster and more accurately
-* Keep up with new dangers
-* Reduce false alarms
+* Users undergo a brief personal assessment of how they use and hold tokens.
+* Self-reporting of assets and locations of assets helps determine values.
+* Wallet connection and monitoring is used to adjust values according to user behavior and the markets.
+* Higher risk assets and users may experience higher premiums or may be denied coverage.
 
-ThreatSlayerAI's agent works within the ThreatSlayer extension. It checks links and threats on its own, using both its smarts and info from users.
+## Claims Process
 
-## **What It Can Do:**
+**Here's how a claim is handled:**
 
-1. Scans links to keep users safe
-2. Finds scam websites on social media
-3. Spots risky wallets and smart contracts
-4. Recognizes tricky web addresses
-5. Cleans up and organizes threat data
-6. Answers user questions about threats
+* Claimant submits a claim with evidence through the portal.
+* AI system performs initial fraud detection and claim assessment.
+* DAO members review and vote on the claim.
+* If approved, payout is processed automatically from the claims pool.
 
-ThreatSlayerAI aims to work across many blockchains and become a top security tool for Web3.
+## Payout Structure
+
+**Here's how you get your bags back:**
+
+* Payouts are made primarily in USDT to ensure stable value.
+* Payout percentage is determined by a curve based on premium paid and coverage amount.
+* Maximum coverage is capped to prevent abuse.

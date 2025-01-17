@@ -1,93 +1,60 @@
 ---
+description: BUIDL.
 icon: road
-description: BUIDL secure.
 ---
 
 # Roadmap
 
-## ThreatSlayer AI Roadmap
 
-### Phase 1: Foundation and Initial Launch (0-3 Months)
 
-#### ThreatSlayer AI Deployment
+## ALLST8 Crypto Insurance Roadmap
 
-* [ ] Launch AI-powered security scanning for X and Telegram URLs
-* [ ] Expand AI security scanning to Discord URLs
-* [ ] Implement security staking automation
-* [x] X personality and tweet automation
+### Phase 1: Foundation Building (0-3 Months)
 
-#### Security Protocol
+* [ ] Develop and launch ALLST8 website
+* [ ] Establish social media presence
+  * [ ] Twitter
+  * [ ] Telegram
+  * [ ] Discord
+* [ ] Create and release basic whitepaper
+* [ ] Create and launch ALLST8 token on DEX/Virtuals/AVAX&#x20;
+* [ ] Conduct public token sale
+* [ ] Develop smart contract for basic insurance policy w/ audits
+* [ ] Wallet connect and monitoring
+* [ ] User sign up flow and process
+* [ ] Implement basic risk assessment model
+* [ ] Implement staking mechanism for claims pool
 
-* [x] Implement manual oversight for URLs
-* [x] Restrict direct user interaction with AI to prevent misuse
+### Phase 2: Core Features (3-6 Months)
 
-#### $SLAYER Token Launch
+* [ ] Launch MVP with basic coverage options
+* [ ] Partner with Web3 security tools for distribution and risk reduction
+* [ ] DEX/CEX launches
+* [ ] Develop evidence submission portal for claims
+* [ ] Create basic DAO structure for governance
+* [ ] Expand coverage options based on initial user feedback
 
-* [x] Launch $SLAYER token on Virtuals.io platform
-* [ ] Implement a burn structure
-* [x] Activate staking on Unvest platform - [https://app.unvest.io/projects/8453/0x6379219890843c0b9e3160044de072ced66baab2/staking-pools/0x39842d9f4d072415f4b38758f8b11418ee65027e](https://app.unvest.io/projects/8453/0x6379219890843c0b9e3160044de072ced66baab2/staking-pools/0x39842d9f4d072415f4b38758f8b11418ee65027e)
+### Phase 3: Advanced Functionality (6-9 Months)
 
-#### Community Building
+* [ ] Implement AI-powered claims processing system
+* [ ] Introduce dynamic pricing model
+* [ ] Launch mobile app for policy management
+* [ ] Expand DAO voting capabilities
+* [ ] Initiate partnerships with DeFi protocols
+* [ ] Partner with&#x20;
 
-* [x] Create and launch ThreatSlayerAI X account
-* [x] Grow community engagement across all platforms
-* [ ] Add all relevant information to https://interlock.network
-* [x] Partner with Lester on Virtuals
-* [x] Partner with CertAIk on Virtuals
+### Phase 4: Ecosystem Expansion (9-18 Months)
 
-### Phase 2: Enhancement and Community Engagement (3-6 Months)
+* [ ] Introduce cross-chain coverage capabilities
+* [ ] Implement advanced fraud detection mechanisms
+* [ ] Develop customizable coverage plans for institutional clients
+* [ ] Launch decentralized reinsurance pool
+* [ ] Establish ALLST8 as a standard for crypto insurance
 
-#### Community Involvement
+### Phase 5: Industry Leadership (18+ Months)
 
-* [ ] Establish a system for community-reported vulnerabilities via Discord, Telegram, and X
-* [ ] Develop user interface to query for information and burn
-
-#### AI Capability Upgrade
-
-* [ ] Improve ThreatSlayer's algorithms based on new vulnerability data
-* [ ] Expand scanning and reporting capabilities to multiple blockchains
-* [ ] Implement pattern recognition and fuzzing
-* [ ] Develop wallet and contract address aggregation
-
-#### Governance Groundwork
-
-* [ ] Plan and structure a DAO for ThreatSlayerAI governance
-
-#### Staking Mechanism
-
-* [ ] Implement $SLAYER staking for access to advanced features and governance rights
-
-### Phase 3: Ecosystem Growth and Autonomy (6-18 Months)
-
-#### Autonomous Operations
-
-* [ ] Gradually implement fully autonomous URL scanning detection and mitigation
-
-#### B2B Sales and Revenue
-
-* [ ] Develop ThreatSlayerAI assistance in cleaning and classifying security data for sale
-* [ ] Implement revenue sharing mechanism
-
-#### Protocol Integration
-
-* [ ] Develop plug-and-play security modules for easy integration with other protocols
-* [ ] Position ThreatSlayerAI as a security standard in the Web3 space
-
-### Phase 4: Full-Scale Operations and Innovation (18+ Months)
-
-#### Cross-Chain Expansion
-
-* [ ] Extend ThreatSlayerAI capabilities across multiple blockchain networks
-* [ ] Achieve full autonomous operation on all supported chains
-
-#### DAO Activation
-
-* [ ] Transition to full DAO governance for ThreatSlayerAI
-
-#### Developer Toolkit
-
-* [ ] Launch API and developer tools for on-demand security scans
-
-#### Industry Collaboration
-
-* [ ] Partner with leading cybersecurity firms to establish blockchain security standards
+* [ ] Achieve full DAO autonomy
+* [ ] Implement advanced AI for risk management
+* [ ] Expand to cover emerging crypto assets
+* [ ] Partner with traditional insurance companies
+* [ ] Lead initiatives for standardizing crypto insurance practices
