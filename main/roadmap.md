@@ -1,11 +1,9 @@
 ---
-description: BUIDL.
 icon: road
+description: BUIDL.
 ---
 
 # Roadmap
-
-
 
 ## ALLST8 Crypto Insurance Roadmap
 
@@ -16,13 +14,13 @@ icon: road
   * [ ] Twitter
   * [ ] Telegram
   * [ ] Discord
-* [ ] Create and release basic whitepaper
-* [ ] Create and launch ALLST8 token on DEX/Virtuals/AVAX&#x20;
-* [ ] Conduct public token sale
+* [x] Gitbook litepaper
+* [ ] Create and launch ALLST8 token on platform we choose
+* [ ] Conduct public token sale (launchpad or DEX)
 * [ ] Develop smart contract for basic insurance policy w/ audits
 * [ ] Wallet connect and monitoring
 * [ ] User sign up flow and process
-* [ ] Implement basic risk assessment model
+* [x] Implement basic risk assessment model
 * [ ] Implement staking mechanism for claims pool
 
 ### Phase 2: Core Features (3-6 Months)
