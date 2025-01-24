@@ -1,35 +1,35 @@
 ---
+icon: globe-pointer
 description: >-
   $ALLST8 is the native token of the ALLST8 decentralized insurance platform,
   designed to protect users against crypto-related losses due to hacks, scams,
   and theft.
-icon: globe-pointer
 ---
 
 # ALLST8 Token
 
 ## Token Utility
 
-* **Premium Payments:** Users can pay insurance premiums using $ALLST8 tokens.
-* **Staking:** Holders can stake tokens to earn rewards and participate in governance.
+* **Premium Payments:** Users pay/stake insurance premiums using $ALLST8 tokens.
+* **Staking:** Holders stake tokens to add liquditiy and earn rewards. Holders also participate in governance.
 * **Claim Payouts:** A portion of claim payouts may be made in $ALLST8 tokens.
 * **Governance:** Token holders can vote on protocol decisions and claim approvals.
 
 ## Tokenomics
 
-Total Supply: 1,000,000,000 $ALLST8
+**Total Supply: 1,000,000,000 $ALLST8**
 
 Distribution:
 
-* 65% Public Sale (No vesting)
-* 20% DAO & Claims Pool
+* 65% Public Sale (No vesting, fair launch)
+* 20% Claims Pool
 * 10% Team (5% 3-month cliff, 5% 6-month cliff)
 * 5% Initial Liquidity & Operations
 
-**Users can stake $ALLST8 tokens in the following pools:**
+**Users can stake $ALLST8 tokens in the following ways:**
 
-1. **Claims Pool:** Earn rewards by providing liquidity for claim payouts.
-2. **Governance Pool:** Stake to participate in DAO voting and earn governance rewards.
+1. **Claims Liquidity:** Earn rewards by providing liquidity for claim payouts.
+2. **Governance:** Stake to participate in DAO voting and earn governance rewards.
 
 Staking rewards are calculated based on the amount staked and duration. Longer staking periods offer higher APY.
 
