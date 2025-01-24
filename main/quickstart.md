@@ -5,7 +5,7 @@ description: Take a dive into how ALLST8 works.
 
 # How it Works
 
-**ALLST8 insurance protects individuals and organizations against cryptocurrency losses they take as a result of hacks, scams, or other malicious occurrences.** \
+**ALLST8 insurance protects&#x20;**<mark style="color:orange;">**people and projects**</mark>**&#x20;against cryptocurrency losses they take as a result of hacks, scams, or other malicious occurrences.** \
 \
 **Claims are paid out by a token pool powered by token staking members and voted on by the DAO. ALLST8 AI agent is used to simplify, verify, and expedite all aspects of the process; including but not limited to creation and delivery of claims and policies.**
 

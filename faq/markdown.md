@@ -1,6 +1,6 @@
 ---
-description: FAQ on Claims and Payouts
 icon: face-tongue-money
+description: FAQ on Claims and Payouts
 ---
 
 # Claims and Payouts
@@ -9,7 +9,7 @@ icon: face-tongue-money
 
 **A:**
 
-* Connect your insured wallet to the ALLST8 platform
+* Connect your insured wallet(s) to the ALLST8 platform
 * Fill out the claim form with details of the incident
 * Submit evidence supporting your claim (e.g., transaction hashes, screenshots)
 * Wait for the AI and DAO review process to complete

@@ -23,13 +23,13 @@ So for $100k - (100,00&#x30;_&#x30;.&#x38;_&#x30;.05\*1.1)/6. This presumes 80% 
 
 **Q: What is ALLST8?**
 
-A: We're an AI crypto insurance company that insures your web3 assets against theft and loss caused by attacks, scams, and exploits.&#x20;
+A: We're an AI crypto insurance company that insures web3 assets against theft and loss caused by attacks, scams, and exploits.&#x20;
 
 **Q: What does ALLST8 do?**
 
 **A:**&#x20;
 
-* Protects your crypto against hacks, scams, and theft
+* Protects assets against hacks, scams, and theft
 * Uses AI to assess risk and set fair rates
 * Processes claims and payouts automatically through smart contracts
 * Involves the community in governance and claim validation through its DAO
@@ -43,7 +43,7 @@ A: We're an AI crypto insurance company that insures your web3 assets against th
 * Get discounts on insurance premiums
 * Contribute to claim validation process
 
-**Q: How does ALLST8 ensure the security of user funds?**
+**Q: How does ALLST8 ensure the security of funds?**
 
 **A:**
 

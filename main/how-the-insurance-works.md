@@ -1,15 +1,15 @@
 ---
+icon: face-laugh-beam
 description: >-
   Get to know what happens when you need coverage. Like a good neighbor, ALLST8
   is there.
-icon: face-laugh-beam
 ---
 
 # How the Insurance Works
 
 ## Risk Assessment
 
-**ALLST8's AI analyzes on-chain data, user behavior, and market trends to determine individual risk scores and premium rates.**
+**ALLST8's AI analyzes on-chain data, user behavior, project performance, business model, and market trends to determine risk scores and premium rates.**
 
 **Here's what happens:**
 
