@@ -53,7 +53,7 @@ noIndex: true
 * [ ] Recruit Community Manager/Social Leader
 * [ ] Engage potential backers (Chain teams, OV, etc)
 
-### Post Launch
+### Post Launch (Immediate <14 days)
 
 #### Technical Launch
 
