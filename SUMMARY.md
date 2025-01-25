@@ -9,6 +9,7 @@
 * [How the Insurance Works](main/how-the-insurance-works.md)
 * [Roadmap](main/roadmap.md)
 * [Launch Plan](main/launch-plan.md)
+* [Team](main/team.md)
 
 ## FAQ
 
