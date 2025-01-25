@@ -1,5 +1,6 @@
 ---
 description: Former winners.
+icon: people-pants
 ---
 
 # Team
