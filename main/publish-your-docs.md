@@ -1,22 +1,22 @@
 ---
 icon: globe-pointer
 description: >-
-  $ALLST8 is the native token of the ALLST8 DeFAI plaform, designed to protect
+  $CLAIM is the native token of the clAIm DeFAI plaform, designed to protect
   users against crypto-related losses due to hacks, scams, and theft.
 ---
 
-# ALLST8 Token
+# $CLAIM Token
 
 ## Token Utility
 
-* **Premium Payments:** Users pay/stake insurance premiums using $ALLST8 tokens.
+* **Premium Payments:** Users pay/stake insurance premiums using $CLAIM tokens.
 * **Staking:** Holders stake tokens to add liquditiy and earn rewards. Holders also participate in governance.
-* **Claim Payouts:** A portion of claim payouts may be made in $ALLST8 tokens.
+* **Claim Payouts:** A portion of claim payouts may be made in $CLAIM tokens.
 * **Governance:** Token holders can vote on protocol decisions and claim approvals.
 
 ## Tokenomics
 
-**Total Supply: 1,000,000,000 $ALLST8**
+**Total Supply: 1,000,000,000 $CLAIM**
 
 Distribution:
 
@@ -25,7 +25,7 @@ Distribution:
 * 10% Team (5% 3-month cliff, 5% 6-month cliff)
 * 5% Initial Liquidity & Operations
 
-**Users can stake $ALLST8 tokens in the following ways:**
+**Users can stake $CLAIM tokens in the following ways:**
 
 1. **Claims Liquidity:** Earn rewards by providing liquidity for claim payouts.
 2. **Governance:** Stake to participate in DAO voting and earn governance rewards.
@@ -34,7 +34,7 @@ Staking rewards are calculated based on the amount staked and duration. Longer s
 
 ## Governance
 
-**$ALLST8 holders can:**
+**$CLAIM holders can:**
 
 * Propose and vote on protocol upgrades
 * Adjust risk parameters and premium rates
@@ -47,4 +47,4 @@ A portion of premiums collected is burned quarterly, reducing token supply over 
 
 ## Renewal Incentives
 
-Users receive discounted rates on policy renewals paid in $ALLST8 tokens.
+Users receive discounted rates on policy renewals paid in $CLAIM tokens.

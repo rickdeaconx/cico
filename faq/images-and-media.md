@@ -1,15 +1,15 @@
 ---
-description: DAO FAQ
 icon: pager
+description: DAO FAQ
 ---
 
 # DAO & Community
 
-**Q: How can I participate in the ALLST8 DAO?**
+**Q: How can I participate in the clAIm DAO?**
 
 **A:**
 
-* Hold ALLST8 tokens to become a DAO member
+* Hold **clAIm** tokens to become a DAO member
 * Stake your tokens to gain voting power
 * Participate in governance proposals and voting
 * Contribute to claim reviews and risk assessments
@@ -23,7 +23,7 @@ icon: pager
 * Managing the treasury and fund allocations
 * Proposing and voting on protocol upgrades
 
-**Q: How does voting work in the ALLST8 DAO?**
+**Q: How does voting work in the clAIm DAO?**
 
 **A:**
 
@@ -32,7 +32,7 @@ icon: pager
 * Voting periods typically last for 3-7 days
 * A majority vote is required for a proposal to pass
 
-**Q: How can I contribute to the ALLST8 community beyond voting?**
+**Q: How can I contribute to the clAIm community beyond voting?**
 
 **A:**
 

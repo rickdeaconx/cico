@@ -5,11 +5,11 @@ description: FAQ on Claims and Payouts
 
 # Claims and Payouts
 
-**Q: How do I file a claim with ALLST8?**
+**Q: How do I file a claim with clAIm?**
 
 **A:**
 
-* Connect your insured wallet(s) to the ALLST8 platform
+* Connect your insured wallet(s) to the **clAIm** platform
 * Fill out the claim form with details of the incident
 * Submit evidence supporting your claim (e.g., transaction hashes, screenshots)
 * Wait for the AI and DAO review process to complete

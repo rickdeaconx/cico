@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome to ALLST8](README.md)
+* [Welcome to clAIm](README.md)
 
 ## main
 
 * [How it Works](main/quickstart.md)
-* [ALLST8 Token](main/publish-your-docs.md)
+* [$CLAIM Token](main/publish-your-docs.md)
 * [How the Insurance Works](main/how-the-insurance-works.md)
 * [Roadmap](main/roadmap.md)
 * [Launch Plan](main/launch-plan.md)

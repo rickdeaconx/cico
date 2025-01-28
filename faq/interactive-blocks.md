@@ -5,16 +5,16 @@ description: DeFAI Agent FAQ
 
 # DeFAI Agent
 
-**Q: What is Agentic AI and how does ALLST8 use it?**
+**Q: What is Agentic AI and how does clAIm use it?**
 
 **A:**
 
 * Agentic AI is an advanced, autonomous artificial intelligence system
-* ALLST8 uses it to automate risk assessment and claims processing
+* **clAIm** uses it to automate risk assessment and claims processing
 * The AI continuously learns from new data to improve its decision-making
 * It helps ensure fair and efficient insurance operations
 
-**Q: How does ALLST8's AI assess risk and set premiums?**
+**Q: How does clAIm's AI assess risk and set premiums?**
 
 **A:**
 
@@ -32,7 +32,7 @@ description: DeFAI Agent FAQ
 * Complex cases are flagged for DAO review
 * The system balances efficiency with community oversight
 
-**Q: How does ALLST8 ensure the AI's decisions are fair and unbiased?**
+**Q: How does clAIm ensure the AI's decisions are fair and unbiased?**
 
 **A:**
 

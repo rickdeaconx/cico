@@ -5,7 +5,7 @@ noIndex: true
 
 # Launch Plan
 
-## ALLST8 Launch Plan
+## &#x20;clAIm Launch Plan
 
 ### Pre-Launch (MVP for Launch)
 
@@ -19,7 +19,7 @@ noIndex: true
 #### Website and Branding
 
 * [ ] Design and develop landing page with:
-  * [ ] Explanation of ALLST8's services
+  * [ ] Explanation of clAIm's services
   * [ ] Policy signup form (basic info, TG contact, asset amount)
   * [ ] Social media links
   * [ ] Smart contract/token addresses

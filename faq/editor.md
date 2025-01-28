@@ -21,11 +21,11 @@ So for $100k - (100,00&#x30;_&#x30;.&#x38;_&#x30;.05\*1.1)/6. This presumes 80% 
 
 
 
-**Q: What is ALLST8?**
+**Q: What is clAIm?**
 
 A: We're an AI crypto insurance company that insures web3 assets against theft and loss caused by attacks, scams, and exploits.&#x20;
 
-**Q: What does ALLST8 do?**
+**Q: What does clAIm do?**
 
 **A:**&#x20;
 
@@ -34,7 +34,7 @@ A: We're an AI crypto insurance company that insures web3 assets against theft a
 * Processes claims and payouts automatically through smart contracts
 * Involves the community in governance and claim validation through its DAO
 
-**Q: What are the benefits of holding ALLST8 tokens?**
+**Q: What are the benefits of holding clAIm tokens?**
 
 **A:**
 
@@ -43,7 +43,7 @@ A: We're an AI crypto insurance company that insures web3 assets against theft a
 * Get discounts on insurance premiums
 * Contribute to claim validation process
 
-**Q: How does ALLST8 ensure the security of funds?**
+**Q: How does clAIm ensure the security of funds?**
 
 **A:**
 

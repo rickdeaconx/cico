@@ -5,17 +5,17 @@ description: BUIDL.
 
 # Roadmap
 
-## ALLST8 Crypto Insurance Roadmap
+## &#x20;clAIm Crypto Insurance Roadmap
 
 ### Phase 1: Foundation Building (0-3 Months)
 
-* [ ] Develop and launch ALLST8 website
+* [ ] Develop and launch clAIm website
 * [ ] Establish social media presence
   * [ ] Twitter
   * [ ] Telegram
   * [ ] Discord
 * [x] Gitbook litepaper
-* [ ] Create and launch ALLST8 token on platform we choose
+* [ ] Create and launch clAIm token on platform we choose
 * [ ] Conduct public token sale (launchpad or DEX)
 * [ ] Develop smart contract for basic insurance policy w/ audits
 * [ ] Wallet connect and monitoring
@@ -47,7 +47,7 @@ description: BUIDL.
 * [ ] Implement advanced fraud detection mechanisms
 * [ ] Develop customizable coverage plans for institutional clients
 * [ ] Launch decentralized reinsurance pool
-* [ ] Establish ALLST8 as a standard for crypto insurance
+* [ ] Establish clAIm as a standard for crypto insurance
 
 ### Phase 5: Industry Leadership (18+ Months)
 
