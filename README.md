@@ -20,11 +20,11 @@ layout:
 
 # Welcome to ALLST8
 
-**ALLST8** is the first-of-its-kind **AI crypto insurance company** built to make the crypto ecosystem safer.
+**ALLST8** is the first-of-its-kind **DeFAI crypto insurance company** built to make the crypto ecosystem safer.
 
-ALLST8's goal is **prevent losses in Web3** by ensuring assets owned by <mark style="color:orange;">individuals(degens) and projects</mark> are **protected by insurance**. Our goal is to make **new and OG users in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
+ALLST8's goal is **prevent losses in Web3** by ensuring assets owned by <mark style="color:orange;">individuals(degens) and projects</mark> are **protected by insurance utilizing agents and swarms**. Our goal is to make **everyone in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
 
-Whether you’re a hobbyist, investor, developer, token holder, or a degen, this is your guide to ALLST8.
+Whether you’re a team, project, investor, developer, token holder, or a degen, this is your guide to ALLST8.
 
 ### Jump right in
 

@@ -1,9 +1,8 @@
 ---
 icon: globe-pointer
 description: >-
-  $ALLST8 is the native token of the ALLST8 decentralized insurance platform,
-  designed to protect users against crypto-related losses due to hacks, scams,
-  and theft.
+  $ALLST8 is the native token of the ALLST8 DeFAI plaform, designed to protect
+  users against crypto-related losses due to hacks, scams, and theft.
 ---
 
 # ALLST8 Token

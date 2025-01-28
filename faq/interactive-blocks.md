@@ -1,9 +1,9 @@
 ---
-description: AI Agent FAQ
 icon: hand-pointer
+description: DeFAI Agent FAQ
 ---
 
-# AI Agent
+# DeFAI Agent
 
 **Q: What is Agentic AI and how does ALLST8 use it?**
 

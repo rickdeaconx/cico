@@ -1,8 +1,8 @@
 ---
 icon: face-laugh-beam
 description: >-
-  Get to know what happens when you need coverage. Like a good neighbor, ALLST8
-  is there.
+  Get to know what happens when you need coverage. Like a good agent, ALLST8 is
+  there.
 ---
 
 # How the Insurance Works
