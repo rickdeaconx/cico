@@ -22,7 +22,7 @@ layout:
 
 **clAIm** is the first-of-its-kind **DeFAI crypto insurance company** built to make the crypto ecosystem safer.
 
-**clAIm's** goal is **prevent losses in Web3** by ensuring assets owned by <mark style="color:orange;">individuals(degens) and projects</mark> are **protected by insurance utilizing agents and swarms**. Our goal is to make **everyone in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
+**clAIm's** goal is **prevent losses in Web3** by ensuring assets managed by <mark style="color:orange;">people</mark> <mark style="color:orange;">and projects</mark> are **protected by insurance run by agents and swarms**. Our goal is to make **everyone in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
 
 Whether you’re a team, project, investor, developer, token holder, or a degen, this is your guide to clAIm.
 
