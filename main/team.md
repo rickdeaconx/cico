@@ -1,23 +1,21 @@
 ---
-description: Former winners.
 icon: people-pants
+description: Former winners.
 ---
 
 # Team
 
-@rickdeaconx - YC Founder, @interlockweb3, @threatslayerai, @hammershift\_. ex: @radwoodofficial [https://linkedin.com/in/rickdeaconx](https://www.linkedin.com/in/rickdeaconx)
+**@rickdeaconx** - YC Founder, @interlockweb3, @threatslayerai, @hammershift\_. ex: @radwoodofficial [https://linkedin.com/in/rickdeaconx](https://www.linkedin.com/in/rickdeaconx)
 
-@andych33chcmo - marketer extraordinare - [https://www.linkedin.com/in/aciaccia/](https://www.linkedin.com/in/aciaccia/)
+**@andych33chcmo** - Marketing extraordinare, @threatslayerweb3, @threatslayerai - [https://www.linkedin.com/in/aciaccia/](https://www.linkedin.com/in/aciaccia/)
 
+**@BlakeWHatch** - AI agents made into reality, Bevor/BevorAI&#x20;
 
+**@petesim1** - Engineering AI correctly, Bevor/BevorAI
 
-Advisory(anonymous for now):
+**Advisors:**
 
-[https://x.com/0xbludex?lang=en](https://x.com/0xbludex?lang=en)
-
-Hedge Fund Manager
-
-Bank CFO
-
-RE Investor&#x20;
-
+[https://x.com/0xbludex?lang=en](https://x.com/0xbludex?lang=en)\
+Tony Visconsi II - Biotech Founder/RE Investor\
+Jeremy Knopp - Hedge Fund Manager\
+Anon Bank CFO

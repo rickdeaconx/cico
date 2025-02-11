@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to clAIm](README.md)
+* [Welcome to CLAIM](README.md)
 
 ## main
 

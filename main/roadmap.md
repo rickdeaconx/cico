@@ -5,7 +5,7 @@ description: BUIDL.
 
 # Roadmap
 
-## &#x20;clAIm Crypto Insurance Roadmap
+## &#x20;CLAIM Crypto Insurance Roadmap
 
 ### Phase 1: Foundation Building (0-3 Months)
 

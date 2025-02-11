@@ -1,5 +1,6 @@
 ---
 icon: rocket-launch
+hidden: true
 noIndex: true
 ---
 

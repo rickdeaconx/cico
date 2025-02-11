@@ -9,7 +9,7 @@ description: >-
 
 ## Risk Assessment
 
-**ClAIm's AI analyzes on-chain data, user behavior, project performance, business model, and market trends to determine risk scores and premium rates.**
+**CLAIM's AI analyzes on-chain data, user behavior, project performance, business model, and market trends to determine risk scores and premium rates.**
 
 **Here's what happens:**
 
@@ -31,6 +31,6 @@ description: >-
 
 **Here's how you get your bags back:**
 
-* Payouts are made primarily in USDT to ensure stable value.
+* Payouts are made primarily in USDT/USDC to ensure stable value.
 * Payout percentage is determined by a curve based on premium paid and coverage amount.
 * Maximum coverage is capped to prevent abuse.
