@@ -3,9 +3,9 @@ icon: hand-pointer
 description: DeFAI Agent FAQ
 ---
 
-# DeFAI Agent
+# AI Agent
 
-**Q: What is Agentic AI and how does clAIm use it?**
+**Q: What is Agentic AI and how does CL**<mark style="color:purple;">**AI**</mark>**M use it?**
 
 **A:**
 
@@ -14,7 +14,7 @@ description: DeFAI Agent FAQ
 * The AI continuously learns from new data to improve its decision-making
 * It helps ensure fair and efficient insurance operations
 
-**Q: How does clAIm's AI assess risk and set premiums?**
+**Q: How does CL**<mark style="color:purple;">**AI**</mark>**M's AI assess risk and set premiums?**
 
 **A:**
 
@@ -32,7 +32,7 @@ description: DeFAI Agent FAQ
 * Complex cases are flagged for DAO review
 * The system balances efficiency with community oversight
 
-**Q: How does clAIm ensure the AI's decisions are fair and unbiased?**
+**Q: How does CL**<mark style="color:purple;">**AI**</mark>**M ensure the AI's decisions are fair and unbiased?**
 
 **A:**
 

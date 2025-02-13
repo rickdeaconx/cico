@@ -9,14 +9,14 @@ description: >-
 
 ## Token Utility
 
-* **Premium Payments:** Users pay/stake insurance premiums using $CLAIM tokens.
+* **Premium Payments:** Users pay/stake insurance premiums using $CL<mark style="color:purple;">AI</mark>M tokens.
 * **Staking:** Holders stake tokens to add liquditiy and earn rewards. Holders also participate in governance.
-* **Claim Payouts:** A portion of claim payouts may be made in $CLAIM tokens.
+* **Claim Payouts:** A portion of claim payouts may be made in $CL<mark style="color:purple;">AI</mark>M tokens.
 * **Governance:** Token holders can vote on protocol decisions and claim approvals.
 
 ## Tokenomics
 
-**Total Supply: 1,000,000,000 $CLAIM**
+**Total Supply: 1,000,000,000 $CL**<mark style="color:purple;">**AI**</mark>**M**
 
 Distribution:
 
@@ -25,7 +25,7 @@ Distribution:
 * 10% Team (5% 3-month cliff, 5% 6-month cliff)
 * 5% Initial Liquidity & Operations
 
-**Users can stake $CLAIM tokens in the following ways:**
+**Users can stake $CL**<mark style="color:purple;">**AI**</mark>**M tokens in the following ways:**
 
 1. **Claims Liquidity:** Earn rewards by providing liquidity for claim payouts.
 2. **Governance:** Stake to participate in DAO voting and earn governance rewards.
@@ -34,7 +34,7 @@ Staking rewards are calculated based on the amount staked and duration. Longer s
 
 ## Governance
 
-**$CLAIM holders can:**
+**$CL**<mark style="color:purple;">**AI**</mark>**M holders can:**
 
 * Propose and vote on protocol upgrades
 * Adjust risk parameters and premium rates
@@ -47,4 +47,4 @@ A portion of premiums collected is burned quarterly, reducing token supply over 
 
 ## Renewal Incentives
 
-Users receive discounted rates on policy renewals paid in $CLAIM tokens.
+Users receive discounted rates on policy renewals paid in $CL<mark style="color:purple;">AI</mark>M tokens.

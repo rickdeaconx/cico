@@ -5,11 +5,11 @@ description: DAO FAQ
 
 # DAO & Community
 
-**Q: How can I participate in the clAIm DAO?**
+**Q: How can I participate in the CL**<mark style="color:purple;">**AI**</mark>**M DAO?**
 
 **A:**
 
-* Hold **clAIm** tokens to become a DAO member
+* Hold CL<mark style="color:purple;">AI</mark>M tokens to become a DAO member
 * Stake your tokens to gain voting power
 * Participate in governance proposals and voting
 * Contribute to claim reviews and risk assessments
@@ -23,7 +23,7 @@ description: DAO FAQ
 * Managing the treasury and fund allocations
 * Proposing and voting on protocol upgrades
 
-**Q: How does voting work in the clAIm DAO?**
+**Q: How does voting work in the CL**<mark style="color:purple;">**AI**</mark>**M DAO?**
 
 **A:**
 
@@ -32,7 +32,7 @@ description: DAO FAQ
 * Voting periods typically last for 3-7 days
 * A majority vote is required for a proposal to pass
 
-**Q: How can I contribute to the clAIm community beyond voting?**
+**Q: How can I contribute to the CL**<mark style="color:purple;">**AI**</mark>**M community beyond voting?**
 
 **A:**
 

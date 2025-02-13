@@ -4,15 +4,15 @@ description: Staking & Rewards FAQ
 
 # 🤑 Staking & Rewards
 
-**Q: What am I staking my clAIm tokens for?**\
+**Q: What am I staking my CL**<mark style="color:purple;">**AI**</mark>**M tokens for?**\
 **A:**
 
 * You're staking to support the claims pool, which pays out insurance claims
 * Staking helps secure the network and validate insurance claims
-* Your stake gives you voting rights in the **clAIm DAO** governance
-* Staking contributes to the overall stability and liquidity of the **clAIm** ecosystem
+* Your stake gives you voting rights in the CL<mark style="color:purple;">AI</mark>M DAO governance
+* Staking contributes to the overall stability and liquidity of the CL<mark style="color:purple;">AI</mark>M ecosystem
 
-**Q: How does staking benefit the clAIm insurance system?**\
+**Q: How does staking benefit the CL**<mark style="color:purple;">**AI**</mark>**M insurance system?**\
 **A:**
 
 * Staking provides liquidity for the claims pool, ensuring funds are available for payouts

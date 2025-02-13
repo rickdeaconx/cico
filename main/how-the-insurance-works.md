@@ -9,7 +9,7 @@ description: >-
 
 ## Risk Assessment
 
-**CLAIM's AI analyzes on-chain data, user behavior, project performance, business model, and market trends to determine risk scores and premium rates.**
+**CL**<mark style="color:purple;">**AI**</mark>**M's AI analyzes on-chain data, user behavior, project performance, business model, and market trends to determine risk scores and premium rates.**
 
 **Here's what happens:**
 

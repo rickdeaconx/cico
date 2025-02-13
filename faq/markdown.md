@@ -5,11 +5,11 @@ description: FAQ on Claims and Payouts
 
 # Claims and Payouts
 
-**Q: How do I file a claim with clAIm?**
+**Q: How do I file a claim with CL**<mark style="color:purple;">**AI**</mark>**M?**
 
 **A:**
 
-* Connect your insured wallet(s) to the **clAIm** platform
+* Connect your insured wallet(s) to the CL<mark style="color:purple;">AI</mark>M platform
 * Fill out the claim form with details of the incident
 * Submit evidence supporting your claim (e.g., transaction hashes, screenshots)
 * Wait for the AI and DAO review process to complete

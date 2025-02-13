@@ -16,7 +16,7 @@
 * [General Questions](faq/editor.md)
 * [Claims and Payouts](faq/markdown.md)
 * [DAO & Community](faq/images-and-media.md)
-* [DeFAI Agent](faq/interactive-blocks.md)
+* [AI Agent](faq/interactive-blocks.md)
 * [🤑 Staking & Rewards](faq/staking-and-rewards.md)
 
 ## Claims & Payouts

@@ -22,7 +22,7 @@ layout:
 
 **CL**<mark style="color:purple;">**AI**</mark>**M** is the first-of-its-kind **agentic AI powered crypto insurance company** built to make the web3 ecosystem safer.
 
-**CL**<mark style="color:purple;">**AI**</mark>**M's** goal is **prevent losses in Web3** by ensuring assets managed by <mark style="color:orange;">people</mark> <mark style="color:orange;">and projects</mark> are **protected by insurance run by agents and swarms**. Our goal is to make **everyone in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
+**CL**<mark style="color:purple;">**AI**</mark>**M's** goal is **prevent losses in Web3** by ensuring assets managed by <mark style="color:purple;">**people and projects**</mark> are **protected by insurance run by agents and swarms**. Our goal is to make **everyone in Web3 feel safe and secure**, as well as to educate and promote security within our communities.
 
 Whether you’re a team, project, investor, developer, token holder, or a degen, this is your guide to clAIm.
 
