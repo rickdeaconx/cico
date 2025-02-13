@@ -22,3 +22,7 @@
 ## Claims & Payouts
 
 * [Claims & Payouts](claims-and-payouts/claims-and-payouts.md)
+
+## Pre-Sale
+
+* [$CLAIM Pre-sale](pre-sale/usdclaim-pre-sale.md)
