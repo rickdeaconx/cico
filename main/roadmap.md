@@ -9,18 +9,19 @@ description: BUIDL.
 
 ### Phase 1: Foundation Building (0-3 Months)
 
-* [ ] Develop and launch clAIm website
-* [ ] Establish social media presence
-  * [ ] Twitter
-  * [ ] Telegram
-  * [ ] Discord
+* [x] Develop and launch clAIm website - https://claim.sucks
+* [x] Establish social media presence
+  * [x] Twitter - x.com/claimsucks
+  * [x] Telegram - t.me/claimaicommunity
+  * [x] Discord - dont need for now
 * [x] Gitbook litepaper
-* [ ] Create and launch clAIm token on platform we choose
-* [ ] Conduct public token sale (launchpad or DEX)
-* [ ] Develop smart contract for basic insurance policy w/ audits
+* [ ] Create and launch $CLAIM token on platform we choose
+* [ ] Conduct public token sale (launchpad or DEX, etc)
+* [ ] Develop smart contract for basic insurance policy w/ audits via Bevor
 * [ ] Wallet connect and monitoring
 * [ ] User sign up flow and process
-* [x] Implement basic risk assessment model
+* [x] Implement basic premium assessment model
+* [x] Begin advanced risk model&#x20;
 * [ ] Implement staking mechanism for claims pool
 
 ### Phase 2: Core Features (3-6 Months)
