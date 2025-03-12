@@ -1,6 +1,6 @@
 ---
-icon: people-pants
 description: Former winners.
+icon: people-pants
 ---
 
 # Team
@@ -16,6 +16,5 @@ description: Former winners.
 **Advisors:**
 
 [https://x.com/0xbludex?lang=en](https://x.com/0xbludex?lang=en)\
-Tony Visconsi II - Biotech Founder/RE Investor\
 Jeremy Knopp - Hedge Fund Manager\
 Anon Bank CFO
